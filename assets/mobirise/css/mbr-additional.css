@@ -28,6 +28,8 @@
 
 
 
+
+
 #menu-0 .navbar-toggler {
   color: #5cb85c;
 }
@@ -60,17 +62,18 @@
   color: #ffffff;
 }
 #msg-box4-3 .mbr-section-title B {
-  color: #ffffff;
+  color: #fbfbfb;
   font-size: 46px;
+  font-family: 'Open Sans', sans-serif;
 }
 #msg-box1-u H2 {
   font-family: 'Roboto', sans-serif;
   color: #0275d8;
 }
 #msg-box1-u B {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 46px;
-  color: #ffffff;
+  color: #fbfbfb;
 }
 #contacts3-2 B {
   font-size: 36px;
@@ -101,7 +104,8 @@
 }
 #msg-box3-p .mbr-section-title B {
   font-size: 46px;
-  color: #ffffff;
+  color: #fbfbfb;
+  font-family: 'Open Sans', sans-serif;
 }
 #msg-box3-p .lead P {
   font-family: 'Roboto', sans-serif;
@@ -164,8 +168,8 @@
   text-align: center;
 }
 #msg-box2-q H2 {
-  font-family: 'Titillium Web', sans-serif;
-  font-size: 36px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
   color: #ffffff;
 }
 #msg-box2-q P {
@@ -176,7 +180,7 @@
   font-family: 'Open Sans', sans-serif;
 }
 #contacts1-5 B {
-  color: #47c848;
+  color: #ffffff;
 }
 #contacts1-5 P {
   font-family: 'Ubuntu', sans-serif;
@@ -186,7 +190,9 @@
 #contacts1-5 DIV {
   color: #47c848;
   font-family: 'Roboto', sans-serif;
+  font-size: 17px;
 }
+
 
 
 
@@ -204,10 +210,14 @@
   font-size: 20px;
 }
 #form1-d .mbr-section-title {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  color: #005075;
+}
+#form1-d .btn {
+  font-family: 'Open Sans', sans-serif;
 }
 #contacts1-9 B {
-  color: #47c848;
+  color: #ffffff;
 }
 #contacts1-9 P {
   font-family: 'Ubuntu', sans-serif;
@@ -216,5 +226,6 @@
 }
 #contacts1-9 DIV {
   color: #47c848;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 17px;
 }

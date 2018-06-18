@@ -50,7 +50,7 @@
             "color": "#ffffff",
             "hamburgerColor": "#5cb85c"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box3-p\">Créez un Site Web</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box3-p\">Comment travaillons nous ?</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">Contact</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">&nbsp; &nbsp;&nbsp;</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact.html\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 19px; color: rgb(71, 200, 72);\"></span>Tel : 07.68.13.73.99</a></li>    ",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box3-p\">Créez un Site Web</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box3-p\">Comment travaillons nous ?</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">Contact</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">&nbsp; &nbsp;&nbsp;</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact.html\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 19px; color: rgb(71, 200, 72);\"></span>Tel : 07.68.13.73.99</a></li>    ",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -113,7 +113,7 @@
           },
           "title": "<br><br>Utilisez la technologie<br>pour vous faire&nbsp;<br>connaitre !",
           "text": "Démarquez vous !<br>Mettez en avant votre activité",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Travaillons ensemble &gt;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">En savoir +</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box3-p\" data-toolbar=\"-mbrBtnMove\">Travaillons ensemble &gt;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"Contact.html\" data-toolbar=\"-mbrBtnMove\">En savoir +</a>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
@@ -190,7 +190,7 @@
             "Thème"
           ],
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">En savoir +</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"Contact.html\" data-toolbar=\"-mbrBtnMove\">En savoir +</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-3",
           "_styles": {
@@ -205,8 +205,10 @@
               "color": "#ffffff"
             },
             ".mbr-section-title B": {
-              "color": "#ffffff",
-              "font-size": "46px"
+              "color": "#fbfbfb",
+              "font-size": "46px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           }
         },
@@ -247,10 +249,10 @@
               "color": "#0275d8"
             },
             "B": {
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "font-size": "46px",
-              "color": "#ffffff"
+              "color": "#fbfbfb"
             }
           }
         },
@@ -272,7 +274,7 @@
           "text2": "<p>Votre site internet est concu pour être spécialement compatible avec les ordinateurs de bureau, les tablettes, et les téléphones portables</p><p>Un projet ? Commencez dès maintenant en Remplissant le formulaire et nous prendrons contact avec vous pour envisager ensemble comment nous pouvons vous aider.<br></p>",
           "form": {
             "title": "MESSAGE",
-            "action": "svideux@gmx.com",
+            "action": "info@prowebsuccess.fr",
             "alerts": {
               "success": "Merci pour votre confiance !"
             },
@@ -342,7 +344,9 @@
             },
             ".mbr-section-title B": {
               "font-size": "46px",
-              "color": "#ffffff"
+              "color": "#fbfbfb",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             ".lead P": {
               "font-family": "'Roboto', sans-serif",
@@ -704,7 +708,7 @@
           },
           "title": "Besoin d'aide pour faire avancer votre projet ?",
           "text": "Nous sommes là pour vous aider",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Nous contacter</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"Contact.html\" data-toolbar=\"-mbrBtnMove\">Nous contacter</a>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
@@ -713,9 +717,9 @@
           "_anchor": "msg-box2-q",
           "_styles": {
             "H2": {
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
-              "font-size": "36px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "30px",
               "color": "#ffffff"
             },
             "P": {
@@ -759,7 +763,7 @@
           },
           "text1": "PROWEBSUCCESS <br>est une société qui utilise la technologie de pointe pour développer des sites Web rapides et performants à un prix vraiment abordable.<br>",
           "text2": "&nbsp;",
-          "text3": "<b>Nous joindre</b><div><b>Email : info@prowebsuccess.fr</b></div><div><b>Téléphone : &nbsp;07 68 13 73 99</b></div><div><br></div>",
+          "text3": "Nous joindre<div>Email :<b> info@prowebsuccess.fr</b></div><div>Téléphone :<b> &nbsp;07 68 13 73 99</b></div><div><br></div>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
@@ -768,7 +772,7 @@
           "_anchor": "contacts1-5",
           "_styles": {
             "B": {
-              "color": "#47c848"
+              "color": "#ffffff"
             },
             "P": {
               "font-family": "'Ubuntu', sans-serif",
@@ -779,7 +783,8 @@
             "DIV": {
               "color": "#47c848",
               "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "17px"
             }
           }
         }
@@ -802,7 +807,7 @@
             "color": "#ffffff",
             "hamburgerColor": "#5cb85c"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box3-p\">Créez un Site Web</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box3-p\">Comment travaillons nous ?</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">Contact</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">&nbsp; &nbsp;&nbsp;</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact.html\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 19px; color: rgb(71, 200, 72);\"></span>Tel : 07.68.13.73.99</a></li>    ",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box3-p\">Créez un Site Web</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box3-p\">Comment travaillons nous ?</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">Contact</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">&nbsp; &nbsp;&nbsp;</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact.html\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 19px; color: rgb(71, 200, 72);\"></span>Tel : 07.68.13.73.99</a></li>    ",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -851,13 +856,13 @@
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffa900",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
           "title": "Contactez nous maintenant<br>",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\">Contact Us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Envoyer</a>",
           "form": {
             "action": "svideux@gmx.com",
             "alerts": {
@@ -893,8 +898,13 @@
           "_anchor": "form1-d",
           "_styles": {
             ".mbr-section-title": {
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "color": "#005075"
+            },
+            ".btn": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           }
         },
@@ -928,7 +938,7 @@
           },
           "text1": "PROWEBSUCCESS <br>est une société qui utilise la technologie de pointe pour développer des sites Web rapides et performants à un prix vraiment abordable.<br>",
           "text2": "&nbsp;",
-          "text3": "<b>Nous joindre</b><div><b>Email : info@prowebsuccess.fr</b></div><div><b>Téléphone : &nbsp;07 68 13 73 99</b></div><div><br></div>",
+          "text3": "Nous joindre<div>Email :<b> info@prowebsuccess.fr</b></div><div>Téléphone :<b> &nbsp;07 68 13 73 99</b></div><div><br></div>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
@@ -937,7 +947,7 @@
           "_anchor": "contacts1-9",
           "_styles": {
             "B": {
-              "color": "#47c848"
+              "color": "#ffffff"
             },
             "P": {
               "font-family": "'Ubuntu', sans-serif",
@@ -947,8 +957,9 @@
             },
             "DIV": {
               "color": "#47c848",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "17px"
             }
           }
         }
