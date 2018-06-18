@@ -207,8 +207,8 @@
             ".mbr-section-title B": {
               "color": "#fbfbfb",
               "font-size": "46px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
           }
         },
@@ -249,8 +249,8 @@
               "color": "#0275d8"
             },
             "B": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-size": "46px",
               "color": "#fbfbfb"
             }
@@ -345,8 +345,8 @@
             ".mbr-section-title B": {
               "font-size": "46px",
               "color": "#fbfbfb",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
             ".lead P": {
               "font-family": "'Roboto', sans-serif",
@@ -520,7 +520,9 @@
               "font-size": "36px"
             },
             ".mbr-section-title B": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
           },
           "_params": {
@@ -543,7 +545,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<b>Ce qui nous différence de la concurrence</b><br><b><br></b>",
+          "title": "<b>Ce qui nous différence de la concurrence</b><b><br></b>",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
@@ -611,21 +613,28 @@
               "text-align": "center"
             },
             ".mbr-section-title B": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "color": "#ffffff"
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ffffff",
+              "font-size": "36px"
             },
             ".mbr-section-title DIV": {
               "font-size": "36px"
+            },
+            "small": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ffffff",
+              "font-size": "32px"
             }
           },
           "_params": {
             "showTitle": true,
-            "showMeta": false,
+            "showMeta": true,
             "showText": false,
             "showButton": false,
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -639,8 +648,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<b>Indépendants et petites entreprises,\n</b><div><b>vous gagnez à être connu !</b></div>",
-          "meta": "By John Smith posted July 30, 2015",
+          "title": "<b>Indépendants et petites entreprises,</b>",
+          "meta": "vous gagnez à être connu !",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
           "alias": "purity/components",

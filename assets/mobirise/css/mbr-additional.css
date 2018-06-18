@@ -30,6 +30,8 @@
 
 
 
+
+
 #menu-0 .navbar-toggler {
   color: #5cb85c;
 }
@@ -64,14 +66,14 @@
 #msg-box4-3 .mbr-section-title B {
   color: #fbfbfb;
   font-size: 46px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 #msg-box1-u H2 {
   font-family: 'Roboto', sans-serif;
   color: #0275d8;
 }
 #msg-box1-u B {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 46px;
   color: #fbfbfb;
 }
@@ -105,7 +107,7 @@
 #msg-box3-p .mbr-section-title B {
   font-size: 46px;
   color: #fbfbfb;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 #msg-box3-p .lead P {
   font-family: 'Roboto', sans-serif;
@@ -137,6 +139,7 @@
 }
 #msg-box3-x .mbr-section-title B {
   color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
 }
 #content4-13 H4 {
   font-family: 'Roboto', sans-serif;
@@ -155,11 +158,17 @@
   text-align: center;
 }
 #msg-box3-y .mbr-section-title B {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   color: #ffffff;
+  font-size: 36px;
 }
 #msg-box3-y .mbr-section-title DIV {
   font-size: 36px;
+}
+#msg-box3-y small {
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 32px;
 }
 #image1-11 DIV {
   font-family: 'Montserrat', sans-serif;
