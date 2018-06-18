@@ -24,7 +24,7 @@
     "google-analytics": "",
     "siteUrl": "undefined",
     "versionFirst": "4.7.7",
-    "uniqCompNum": 44,
+    "uniqCompNum": 48,
     "versionPublish": "4.7.7",
     "screenshot": "screenshot.png"
   },
@@ -99,7 +99,7 @@
             "showArrow": false,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/0-headerv04-75p.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/0-headerv01-4.gif",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
@@ -146,7 +146,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": "11",
+            "imageSize": "17",
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
@@ -184,31 +184,29 @@
             }
           },
           "title": "<b>Qui sommes nous ?</b>",
-          "text": "<p>PROWEBSUCCESS &nbsp;est une société qui utilise la technologie de pointe pour développer des sites Web rapides et performants à un prix vraiment abordable.</p><p>Chaque site Web est conçu et construit sur mesure pour répondre à vos besoins  et à l'auditoire que vous visez.</p>",
+          "text": "<p>PROWEBSUCCESS  est une société qui utilise la technologie de pointe pour développer des sites Web rapides et performants à un prix vraiment abordable.\n</p><p>\n</p><p>Chaque site Web est conçu et construit sur mesure pour répondre à vos besoins et à l'auditoire que vous visez.</p>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
           ],
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"Contact.html\" data-toolbar=\"-mbrBtnMove\">En savoir +</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">En savoir +</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-3",
+          "_anchor": "msg-box4-1b",
           "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
-            },
             ".lead P": {
-              "font-family": "'Arimo', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "font-size": "15px",
               "color": "#ffffff"
             },
-            ".mbr-section-title B": {
-              "color": "#fbfbfb",
-              "font-size": "46px",
+            ".mbr-section-title": {
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-section-title B": {
+              "color": "#ffffff",
+              "font-size": "36px"
             }
           }
         },
@@ -337,22 +335,16 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
-              "font-size": "32px",
-              "text-align": "center"
-            },
-            ".mbr-section-title B": {
-              "font-size": "46px",
-              "color": "#fbfbfb",
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ffffff",
+              "font-size": "36px"
             },
             ".lead P": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "color": "#00beef",
-              "text-align": "center"
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "30px",
+              "color": "#005075"
             }
           },
           "_params": {
@@ -375,7 +367,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<b>Comment travaillons nous ?</b>",
+          "title": "Comment travaillons nous ?",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Votre site en 4 étapes</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
@@ -384,7 +376,7 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-p"
+          "_anchor": "msg-box3-1a"
         },
         {
           "_params": {
@@ -515,14 +507,16 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ffffff",
               "font-size": "36px"
             },
-            ".mbr-section-title B": {
-              "color": "#ffffff",
+            ".lead P": {
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "30px",
+              "color": "#005075"
             }
           },
           "_params": {
@@ -545,16 +539,16 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<b>Ce qui nous différence de la concurrence</b><b><br></b>",
+          "title": "Ce qui nous différence de la concurrence",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-x"
+          "_anchor": "msg-box3-19"
         },
         {
           "_params": {
@@ -612,29 +606,26 @@
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center"
             },
-            ".mbr-section-title B": {
+            ".mbr-section-title": {
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "color": "#ffffff",
               "font-size": "36px"
             },
-            ".mbr-section-title DIV": {
-              "font-size": "36px"
-            },
-            "small": {
+            ".lead P": {
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "color": "#ffffff",
-              "font-size": "32px"
+              "font-size": "30px",
+              "color": "#ffffff"
             }
           },
           "_params": {
             "showTitle": true,
-            "showMeta": true,
-            "showText": false,
+            "showMeta": false,
+            "showText": true,
             "showButton": false,
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -648,16 +639,16 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<b>Indépendants et petites entreprises,</b>",
-          "meta": "vous gagnez à être connu !",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "title": "Indépendants et petites entreprises,",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>vous gagnez à être connu !</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-y"
+          "_anchor": "msg-box3-18"
         },
         {
           "_params": {

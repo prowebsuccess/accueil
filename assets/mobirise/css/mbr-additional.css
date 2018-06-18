@@ -1,11 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
-
-
 
 
 
@@ -55,18 +53,17 @@
 #header4-6 .btn {
   font-family: 'Open Sans', sans-serif;
 }
-#msg-box4-3 .mbr-section-title {
-  font-family: 'Titillium Web', sans-serif;
-}
-#msg-box4-3 .lead P {
-  font-family: 'Arimo', sans-serif;
+#msg-box4-1b .lead P {
+  font-family: 'Open Sans', sans-serif;
   font-size: 15px;
   color: #ffffff;
 }
-#msg-box4-3 .mbr-section-title B {
-  color: #fbfbfb;
-  font-size: 46px;
+#msg-box4-1b .mbr-section-title {
   font-family: 'Montserrat', sans-serif;
+}
+#msg-box4-1b .mbr-section-title B {
+  color: #ffffff;
+  font-size: 36px;
 }
 #msg-box1-u H2 {
   font-family: 'Roboto', sans-serif;
@@ -93,26 +90,21 @@
 #contacts3-2 .btn {
   font-family: 'Open Sans', sans-serif;
 }
-#msg-box3-p .mbr-header .mbr-header__text {
+#msg-box3-1a .mbr-header .mbr-header__text {
   text-align: center;
 }
-#msg-box3-p .mbr-header .mbr-header__subtext {
+#msg-box3-1a .mbr-header .mbr-header__subtext {
   text-align: center;
 }
-#msg-box3-p .mbr-section-title {
-  font-family: 'Titillium Web', sans-serif;
-  font-size: 32px;
-  text-align: center;
-}
-#msg-box3-p .mbr-section-title B {
-  font-size: 46px;
-  color: #fbfbfb;
+#msg-box3-1a .mbr-section-title {
   font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 36px;
 }
-#msg-box3-p .lead P {
-  font-family: 'Roboto', sans-serif;
-  color: #00beef;
-  text-align: center;
+#msg-box3-1a .lead P {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  color: #005075;
 }
 #msg-box3-16 .mbr-header .mbr-header__text {
   text-align: center;
@@ -127,19 +119,21 @@
 #msg-box3-16 .mbr-section-title B {
   color: #ffffff;
 }
-#msg-box3-x .mbr-header .mbr-header__text {
+#msg-box3-19 .mbr-header .mbr-header__text {
   text-align: center;
 }
-#msg-box3-x .mbr-header .mbr-header__subtext {
+#msg-box3-19 .mbr-header .mbr-header__subtext {
   text-align: center;
 }
-#msg-box3-x .mbr-section-title {
-  font-family: 'Roboto', sans-serif;
+#msg-box3-19 .mbr-section-title {
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
   font-size: 36px;
 }
-#msg-box3-x .mbr-section-title B {
-  color: #ffffff;
+#msg-box3-19 .lead P {
   font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  color: #005075;
 }
 #content4-13 H4 {
   font-family: 'Roboto', sans-serif;
@@ -151,24 +145,21 @@
 #content4-13 B {
   color: #000000;
 }
-#msg-box3-y .mbr-header .mbr-header__text {
+#msg-box3-18 .mbr-header .mbr-header__text {
   text-align: center;
 }
-#msg-box3-y .mbr-header .mbr-header__subtext {
+#msg-box3-18 .mbr-header .mbr-header__subtext {
   text-align: center;
 }
-#msg-box3-y .mbr-section-title B {
+#msg-box3-18 .mbr-section-title {
   font-family: 'Montserrat', sans-serif;
   color: #ffffff;
   font-size: 36px;
 }
-#msg-box3-y .mbr-section-title DIV {
-  font-size: 36px;
-}
-#msg-box3-y small {
+#msg-box3-18 .lead P {
   font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
   color: #ffffff;
-  font-size: 32px;
 }
 #image1-11 DIV {
   font-family: 'Montserrat', sans-serif;
