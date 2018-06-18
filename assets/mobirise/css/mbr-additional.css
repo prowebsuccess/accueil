@@ -30,6 +30,8 @@
 
 
 
+
+
 #menu-0 .navbar-toggler {
   color: #5cb85c;
 }
@@ -99,7 +101,7 @@
 #msg-box3-1a .mbr-section-title {
   font-family: 'Montserrat', sans-serif;
   color: #ffffff;
-  font-size: 36px;
+  font-size: 10px;
 }
 #msg-box3-1a .lead P {
   font-family: 'Montserrat', sans-serif;
@@ -128,7 +130,7 @@
 #msg-box3-19 .mbr-section-title {
   font-family: 'Montserrat', sans-serif;
   color: #ffffff;
-  font-size: 36px;
+  font-size: 10px;
 }
 #msg-box3-19 .lead P {
   font-family: 'Montserrat', sans-serif;
@@ -166,6 +168,28 @@
   font-size: 16px;
   color: #17236b;
   text-align: center;
+}
+#msg-box3-1c .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-1c .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-1c .mbr-section-title {
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 10px;
+}
+#msg-box3-1c .lead P {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  color: #005075;
+}
+#msg-box3-1c .lead DIV {
+  color: #005075;
+}
+#msg-box3-1c .lead {
+  color: #005075;
 }
 #msg-box2-q H2 {
   font-family: 'Montserrat', sans-serif;

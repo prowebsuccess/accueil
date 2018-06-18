@@ -24,7 +24,7 @@
     "google-analytics": "",
     "siteUrl": "undefined",
     "versionFirst": "4.7.7",
-    "uniqCompNum": 48,
+    "uniqCompNum": 49,
     "versionPublish": "4.7.7",
     "screenshot": "screenshot.png"
   },
@@ -50,7 +50,7 @@
             "color": "#ffffff",
             "hamburgerColor": "#5cb85c"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box3-p\">Créez un Site Web</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box3-p\">Comment travaillons nous ?</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">Contact</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">&nbsp; &nbsp;&nbsp;</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact.html\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 19px; color: rgb(71, 200, 72);\"></span>Tel : 07.68.13.73.99</a></li>    ",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box1-u\">Créez un Site Web</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box3-1a\">Comment travaillons nous ?</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact.html\">Contact</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">&nbsp; &nbsp;&nbsp;</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact.html\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 19px; color: rgb(71, 200, 72);\"></span>Tel : 07.68.13.73.99</a></li>    ",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -67,7 +67,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand text-primary\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">prowebsuccess.fr</a>",
+          "brand": "<a class=\"navbar-brand text-primary\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">prowebsuccess.fr</a>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
@@ -338,7 +338,7 @@
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "color": "#ffffff",
-              "font-size": "36px"
+              "font-size": "10px"
             },
             ".lead P": {
               "font-family": "'Montserrat', sans-serif",
@@ -510,7 +510,7 @@
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "color": "#ffffff",
-              "font-size": "36px"
+              "font-size": "10px"
             },
             ".lead P": {
               "font-family": "'Montserrat', sans-serif",
@@ -667,7 +667,7 @@
               "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "<br><br><br>Gites . Maison d'hotes . Restauration .&nbsp;<br>Artisans . Auto-Entrepreneur . Association . Profession Libéral .<br>",
+          "text": "<br><br><br><br>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
@@ -683,6 +683,64 @@
               "text-align": "center"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ffffff",
+              "font-size": "10px"
+            },
+            ".lead P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "30px",
+              "color": "#005075"
+            },
+            ".lead DIV": {
+              "color": "#005075"
+            },
+            ".lead": {
+              "color": "#005075"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "&nbsp;&nbsp;",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "Gites . Maison d'hotes . Restauration . \n<div>Artisans . Auto-Entrepreneur . Association . Profession Libéral .</div>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1c"
         },
         {
           "_inherit": "msg-box1",
@@ -807,7 +865,7 @@
             "color": "#ffffff",
             "hamburgerColor": "#5cb85c"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box3-p\">Créez un Site Web</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box3-p\">Comment travaillons nous ?</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">Contact</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">&nbsp; &nbsp;&nbsp;</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact.html\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 19px; color: rgb(71, 200, 72);\"></span>Tel : 07.68.13.73.99</a></li>    ",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box1-u\">Créez un Site Web</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box3-1a\">Comment travaillons nous ?</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact.html\">Contact</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">&nbsp; &nbsp;&nbsp;</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact.html\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 19px; color: rgb(71, 200, 72);\"></span>Tel : 07.68.13.73.99</a></li>    ",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -824,7 +882,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand text-primary\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">prowebsuccess.fr</a>",
+          "brand": "<a class=\"navbar-brand text-primary\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">prowebsuccess.fr</a>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
