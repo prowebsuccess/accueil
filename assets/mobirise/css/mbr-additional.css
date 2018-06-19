@@ -31,6 +31,7 @@
 
 
 
+
 #menu-0 .navbar-toggler {
   color: #5cb85c;
 }
@@ -161,6 +162,12 @@
   font-family: 'Montserrat', sans-serif;
   font-size: 30px;
   color: #ffffff;
+}
+#image1-11 DIV {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  color: #17236b;
+  text-align: center;
 }
 #msg-box3-1c .mbr-header .mbr-header__text {
   text-align: center;
