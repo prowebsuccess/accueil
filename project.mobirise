@@ -18,8 +18,8 @@
     },
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
-    "favicon": "",
-    "noImageResize": "true",
+    "favicon": "@PROJECT_PATH@/assets/images/2logo-onstruction-web-25p-1.gif",
+    "noImageResize": "",
     "cookiesAlert": "",
     "google-analytics": "",
     "siteUrl": "",
@@ -344,7 +344,7 @@
             ".lead P": {
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "30px",
+              "font-size": "25px",
               "color": "#005075"
             }
           },
@@ -706,10 +706,16 @@
               "color": "#005075"
             },
             ".lead DIV": {
-              "color": "#005075"
+              "color": "#005075",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "21px"
             },
             ".lead": {
-              "color": "#005075"
+              "color": "#005075",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "21px"
             }
           },
           "_params": {

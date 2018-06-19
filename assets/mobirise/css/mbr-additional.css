@@ -32,6 +32,8 @@
 
 
 
+
+
 #menu-0 .navbar-toggler {
   color: #5cb85c;
 }
@@ -105,7 +107,7 @@
 }
 #msg-box3-1a .lead P {
   font-family: 'Montserrat', sans-serif;
-  font-size: 30px;
+  font-size: 25px;
   color: #005075;
 }
 #msg-box3-16 .mbr-header .mbr-header__text {
@@ -187,9 +189,13 @@
 }
 #msg-box3-1c .lead DIV {
   color: #005075;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 21px;
 }
 #msg-box3-1c .lead {
   color: #005075;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 21px;
 }
 #msg-box2-q H2 {
   font-family: 'Montserrat', sans-serif;
