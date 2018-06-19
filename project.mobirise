@@ -207,7 +207,7 @@
             },
             ".mbr-section-title B": {
               "color": "#ffffff",
-              "font-size": "36px"
+              "font-size": "32px"
             }
           }
         },
@@ -339,7 +339,7 @@
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "color": "#ffffff",
-              "font-size": "10px"
+              "font-size": "36px"
             },
             ".lead P": {
               "font-family": "'Montserrat', sans-serif",
@@ -511,7 +511,7 @@
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "color": "#ffffff",
-              "font-size": "10px"
+              "font-size": "36px"
             },
             ".lead P": {
               "font-family": "'Montserrat', sans-serif",
