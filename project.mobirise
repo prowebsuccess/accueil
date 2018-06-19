@@ -41,57 +41,6 @@
       },
       "components": [
         {
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "color": "#ffffff",
-            "hamburgerColor": "#5cb85c"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box1-u\"></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box1-u\"></a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box3-1a\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 30px; color: rgb(143, 153, 175);\"></span></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box3-1a\">Comment travaillons nous ?</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box3-1a\">Comment travaillons nous ?</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact.html\">Contact&nbsp;</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">&nbsp; &nbsp;&nbsp;</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact.html\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 19px; color: rgb(71, 200, 72);\"></span>Tel : 07.68.13.73.99</a></li>    ",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2logo-onstruction-web-35p.gif",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-brand text-primary\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">prowebsuccess.fr</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-0",
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#5cb85c"
-            },
-            ".nav-link": {
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-size": "16px"
-            },
-            ".navbar-brand": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "16px"
-            }
-          }
-        },
-        {
           "_inherit": "header1",
           "_params": {
             "showTitle": true,
@@ -136,6 +85,78 @@
             ".btn": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "17",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#4bc1dd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/00-comment-ca-marche-569x483.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<b>Qui sommes nous ?</b>",
+          "text": "<p>PROWEBSUCCESS  est une société qui utilise la technologie de pointe pour développer des sites Web rapides et performants à un prix vraiment abordable.\n</p><p>\n</p><p>Chaque site Web est conçu et construit sur mesure pour répondre à vos besoins et à l'auditoire que vous visez.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">En savoir +</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1b",
+          "_styles": {
+            ".lead P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "15px",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-section-title B": {
+              "color": "#ffffff",
+              "font-size": "32px"
             }
           }
         },
@@ -306,6 +327,78 @@
           ],
           "_name": "msg-box3",
           "_anchor": "msg-box3-1a"
+        },
+        {
+          "_params": {
+            "showBullets": false,
+            "paddingTop": 0,
+            "paddingBottom": "1",
+            "bgColor": "#ffffff",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/11-etape-1-1280x808.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/11-etape-1-1280x808-800x505.jpg",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/1receuil-besoin-etape-creation-site-internet-2-1280x808.png",
+                "thumb": "@PROJECT_PATH@/assets/images/1receuil-besoin-etape-creation-site-internet-2-1280x808-800x505.png",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/11-etape-2-1280x808.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/11-etape-2-1280x808-800x505.jpg",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2-etape-creatiion-1280x808.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-etape-creatiion-1280x808-800x505.jpg",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/11-etape-3-1280x808-800x505.jpg",
+                "alt": "",
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/web-design-600x338.png",
+                "thumb": "@PROJECT_PATH@/assets/images/web-design-600x338-600x338.png",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/11-etape-4-1280x808.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/11-etape-4-1280x808-800x505.jpg",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2-etape-creatiion2-1280x808.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-etape-creatiion2-1280x808-800x505.jpg",
+                "active": true,
+                "alt": "",
+                "title": ""
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-m"
         },
         {
           "_styles": {
@@ -763,7 +856,7 @@
             ".navbar-brand": {
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "16px"
+              "font-size": "17px"
             }
           },
           "_anchor": "menu-7"

@@ -1,5 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
@@ -32,17 +32,6 @@
 
 
 
-#menu-0 .navbar-toggler {
-  color: #5cb85c;
-}
-#menu-0 .nav-link {
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 16px;
-}
-#menu-0 .navbar-brand {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 16px;
-}
 #header4-6 H1 {
   font-family: 'Montserrat', sans-serif;
   font-size: 48px;
@@ -54,6 +43,18 @@
 }
 #header4-6 .btn {
   font-family: 'Open Sans', sans-serif;
+}
+#msg-box4-1b .lead P {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  color: #ffffff;
+}
+#msg-box4-1b .mbr-section-title {
+  font-family: 'Montserrat', sans-serif;
+}
+#msg-box4-1b .mbr-section-title B {
+  color: #ffffff;
+  font-size: 32px;
 }
 #msg-box1-u H2 {
   font-family: 'Roboto', sans-serif;
@@ -223,7 +224,7 @@
 }
 #menu-7 .navbar-brand {
   font-family: 'Montserrat', sans-serif;
-  font-size: 16px;
+  font-size: 17px;
 }
 #form1-d .mbr-section-title {
   font-family: 'Roboto', sans-serif;
