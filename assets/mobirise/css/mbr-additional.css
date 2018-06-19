@@ -1,5 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
@@ -31,7 +31,17 @@
 
 
 
-
+#menu-0 .navbar-toggler {
+  color: #5cb85c;
+}
+#menu-0 .nav-link {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 16px;
+}
+#menu-0 .navbar-brand {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 17px;
+}
 #header4-6 H1 {
   font-family: 'Montserrat', sans-serif;
   font-size: 48px;
@@ -152,12 +162,6 @@
   font-size: 30px;
   color: #ffffff;
 }
-#image1-11 DIV {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 16px;
-  color: #17236b;
-  text-align: center;
-}
 #msg-box3-1c .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -195,19 +199,6 @@
 }
 #msg-box2-q .btn {
   font-family: 'Open Sans', sans-serif;
-}
-#contacts1-5 B {
-  color: #ffffff;
-}
-#contacts1-5 P {
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 14px;
-  color: #ffffff;
-}
-#contacts1-5 DIV {
-  color: #47c848;
-  font-family: 'Roboto', sans-serif;
-  font-size: 17px;
 }
 
 
