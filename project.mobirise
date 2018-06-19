@@ -760,54 +760,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/photo-13.jpg",
-              "width": 1400
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "alias": "purity/components",
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-1t"
-        },
-        {
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/intro-1-1920x1080.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Cut down the development time with drag-and-drop website builder.",
-          "alias": "purity/components",
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "video1",
-          "_anchor": "video1-1u"
-        },
-        {
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/intro-1-1920x1080.jpg",
+              "src": "@PROJECT_PATH@/assets/images/intro-2-1920x1080.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
