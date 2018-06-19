@@ -34,6 +34,8 @@
 
 
 
+
+
 #menu-0 .navbar-toggler {
   color: #5cb85c;
 }
@@ -57,6 +59,20 @@
 #header4-6 .btn {
   font-family: 'Open Sans', sans-serif;
 }
+#msg-box3-1g .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-1g .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-1g .mbr-section-title {
+  font-family: 'Roboto', sans-serif;
+  font-size: 36px;
+}
+#msg-box3-1g .mbr-section-title B {
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+}
 #msg-box4-1b .lead P {
   font-family: 'Open Sans', sans-serif;
   font-size: 15px;
@@ -64,10 +80,11 @@
 }
 #msg-box4-1b .mbr-section-title {
   font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
 }
 #msg-box4-1b .mbr-section-title B {
   color: #ffffff;
-  font-size: 32px;
+  font-size: 36px;
 }
 #msg-box1-u H2 {
   font-family: 'Roboto', sans-serif;
