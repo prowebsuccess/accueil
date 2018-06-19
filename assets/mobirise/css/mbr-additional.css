@@ -36,6 +36,8 @@
 
 
 
+
+
 #menu-0 .navbar-toggler {
   color: #5cb85c;
 }
@@ -85,6 +87,20 @@
 #msg-box4-1b .mbr-section-title B {
   color: #ffffff;
   font-size: 36px;
+}
+#msg-box3-1h .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-1h .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-1h .mbr-section-title {
+  font-family: 'Roboto', sans-serif;
+  font-size: 36px;
+}
+#msg-box3-1h .mbr-section-title B {
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
 }
 #msg-box1-u H2 {
   font-family: 'Roboto', sans-serif;
