@@ -19,7 +19,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "favicon": "",
-    "noImageResize": "",
+    "noImageResize": "true",
     "cookiesAlert": "",
     "google-analytics": "",
     "siteUrl": "",
@@ -56,7 +56,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-onstruction-web-25p.gif",
+              "src": "@PROJECT_PATH@/assets/images/2logo-onstruction-web-35p.gif",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -871,7 +871,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2logo-onstruction-web-25p.gif",
+              "src": "@PROJECT_PATH@/assets/images/2logo-onstruction-web-35p.gif",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
