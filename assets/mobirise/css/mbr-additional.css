@@ -34,6 +34,10 @@
 
 
 
+
+
+
+
 #menu-0 .navbar-toggler {
   color: #5cb85c;
 }
@@ -94,6 +98,22 @@
 #contacts3-2 .btn {
   font-family: 'Open Sans', sans-serif;
 }
+#msg-box3-1m .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-1m .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-1m .mbr-section-title {
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 36px;
+}
+#msg-box3-1m .lead P {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+  color: #005075;
+}
 #msg-box3-1a .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -106,6 +126,22 @@
   font-size: 36px;
 }
 #msg-box3-1a .lead P {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+  color: #005075;
+}
+#msg-box3-1l .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-1l .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-1l .mbr-section-title {
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 36px;
+}
+#msg-box3-1l .lead P {
   font-family: 'Montserrat', sans-serif;
   font-size: 25px;
   color: #005075;

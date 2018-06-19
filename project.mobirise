@@ -24,7 +24,7 @@
     "google-analytics": "",
     "siteUrl": "",
     "versionFirst": "4.7.7",
-    "uniqCompNum": 57,
+    "uniqCompNum": 59,
     "versionPublish": "4.7.7",
     "screenshot": "screenshot.png",
     "sitemapSwitcherAuto": "on"
@@ -51,7 +51,7 @@
             "color": "#ffffff",
             "hamburgerColor": "#5cb85c"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box1-u\"></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box1-u\"></a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"#top\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 30px; color: rgb(143, 153, 175);\"></span></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box3-1a\">Qui sommes nous ?</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box3-1a\">Comment travaillons nous ?</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact.html\">Contact&nbsp;</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">&nbsp; &nbsp;&nbsp;</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact.html\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 19px; color: rgb(71, 200, 72);\"></span>Tel : 07.68.13.73.99</a></li>    ",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box1-u\"></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box1-u\"></a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"#top\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 30px; color: rgb(143, 153, 175);\"></span></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box4-1b\">Qui sommes nous ?</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box3-1m\">Comment travaillons nous ?</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact.html\">Contact&nbsp;</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">&nbsp; &nbsp;&nbsp;</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact.html\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 19px; color: rgb(71, 200, 72);\"></span>Tel : 07.68.13.73.99</a></li>    ",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -184,7 +184,7 @@
               "size": 0
             }
           },
-          "title": "<b>Qui sommes nous ?</b>",
+          "title": "<b><br></b><br><b>Qui sommes nous ?</b>",
           "text": "<p>PROWEBSUCCESS  est une société qui utilise la technologie de pointe pour développer des sites Web rapides et performants à un prix vraiment abordable.\n</p><p>\n</p><p>Chaque site Web est conçu et construit sur mesure pour répondre à vos besoins et à l'auditoire que vous visez.</p>",
           "alias": "purity/components",
           "_tags": [
@@ -255,7 +255,7 @@
         {
           "_params": {
             "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/bearingpoint-startteaser-21-regtech.jpg",
             "parallax": false,
@@ -348,9 +348,113 @@
           "_params": {
             "showTitle": true,
             "showMeta": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f2f2f2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<br><br>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1m"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ffffff",
+              "font-size": "36px"
+            },
+            ".lead P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "25px",
+              "color": "#005075"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffa900",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<b><br></b><b>Comment travaillons nous ?</b>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Votre site en 4 étapes</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1a"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ffffff",
+              "font-size": "36px"
+            },
+            ".lead P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "25px",
+              "color": "#005075"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
             "showText": true,
             "showButton": false,
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
@@ -374,7 +478,7 @@
             "Thème"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-1a"
+          "_anchor": "msg-box3-1l"
         },
         {
           "_params": {
@@ -637,7 +741,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Indépendants et petites entreprises,",
+          "title": "<b>Indépendants et petites entreprises,</b>",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>vous gagnez à être connu !</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
@@ -869,7 +973,7 @@
             "color": "#ffffff",
             "hamburgerColor": "#5cb85c"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box1-u\"></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box1-u\"></a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"#top\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 30px; color: rgb(143, 153, 175);\"></span></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box3-1a\">Qui sommes nous ?</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box3-1a\">Comment travaillons nous ?</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact.html\">Contact&nbsp;</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">&nbsp; &nbsp;&nbsp;</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact.html\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 19px; color: rgb(71, 200, 72);\"></span>Tel : 07.68.13.73.99</a></li>    ",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box1-u\"></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box1-u\"></a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"#top\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 30px; color: rgb(143, 153, 175);\"></span></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box4-1b\">Qui sommes nous ?</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box3-1m\">Comment travaillons nous ?</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact.html\">Contact&nbsp;</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">&nbsp; &nbsp;&nbsp;</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact.html\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 19px; color: rgb(71, 200, 72);\"></span>Tel : 07.68.13.73.99</a></li>    ",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
