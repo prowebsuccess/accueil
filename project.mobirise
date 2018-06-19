@@ -19,14 +19,15 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "favicon": "",
-    "noImageResize": "true",
+    "noImageResize": "",
     "cookiesAlert": "",
     "google-analytics": "",
-    "siteUrl": "undefined",
+    "siteUrl": "",
     "versionFirst": "4.7.7",
     "uniqCompNum": 49,
     "versionPublish": "4.7.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "sitemapSwitcherAuto": "on"
   },
   "pages": {
     "index.html": {
