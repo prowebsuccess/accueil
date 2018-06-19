@@ -34,10 +34,6 @@
 
 
 
-
-
-
-
 #menu-0 .navbar-toggler {
   color: #5cb85c;
 }
@@ -201,37 +197,11 @@
   font-size: 30px;
   color: #ffffff;
 }
-#image1-1s DIV {
+#msg-box4-1v .lead P {
   font-family: 'Montserrat', sans-serif;
   font-size: 21px;
   color: #005075;
-  text-align: center;
-}
-#msg-box3-1c .mbr-header .mbr-header__text {
-  text-align: center;
-}
-#msg-box3-1c .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
-#msg-box3-1c .mbr-section-title {
-  font-family: 'Montserrat', sans-serif;
-  color: #ffffff;
-  font-size: 10px;
-}
-#msg-box3-1c .lead P {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 30px;
-  color: #005075;
-}
-#msg-box3-1c .lead DIV {
-  color: #005075;
-  font-family: 'Montserrat', sans-serif;
-  font-size: 21px;
-}
-#msg-box3-1c .lead {
-  color: #005075;
-  font-family: 'Montserrat', sans-serif;
-  font-size: 21px;
+  text-align: left;
 }
 #msg-box2-q H2 {
   font-family: 'Montserrat', sans-serif;

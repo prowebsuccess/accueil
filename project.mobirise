@@ -24,7 +24,7 @@
     "google-analytics": "",
     "siteUrl": "",
     "versionFirst": "4.7.7",
-    "uniqCompNum": 67,
+    "uniqCompNum": 68,
     "versionPublish": "4.7.7",
     "screenshot": "screenshot.png",
     "sitemapSwitcherAuto": "on"
@@ -754,102 +754,69 @@
           "_anchor": "msg-box3-18"
         },
         {
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/intro-2-1920x1080.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Gites . Maison d'hotes . Restauration",
-          "alias": "purity/components",
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-1s",
-          "_styles": {
-            "DIV": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "21px",
-              "color": "#005075",
-              "text-align": "center"
-            }
-          }
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "color": "#ffffff",
-              "font-size": "10px"
-            },
-            ".lead P": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "30px",
-              "color": "#005075"
-            },
-            ".lead DIV": {
-              "color": "#005075",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "21px"
-            },
-            ".lead": {
-              "color": "#005075",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "21px"
-            }
-          },
+          "_inherit": "msg-box5",
           "_params": {
             "showTitle": false,
             "showMeta": false,
             "showText": true,
-            "showButton": false,
-            "paddingTop": "0",
-            "paddingBottom": "1",
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "47",
+            "paddingTop": 0,
+            "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": false,
-            "overlayColor": "#222",
+            "overlayColor": "#fff",
             "overlayOpacity": 0.5
           },
-          "title": "&nbsp;&nbsp;",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<div>Artisans . Auto-Entrepreneur . Association . Profession Libéral .</div>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/intro-2-1920x1080.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Drag &amp; Drop Website Builder",
+          "text": "<p>Gites . Maison d'hotes . Restauration . <span style=\"font-size: 1.25rem;\">Artisans . Auto-Entrepreneur . Association . &nbsp; &nbsp; &nbsp; &nbsp; </span><span style=\"font-size: 1.25rem;\">Profession Libéral .</span></p>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
           ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-1c"
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1v",
+          "_styles": {
+            ".lead P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "21px",
+              "color": "#005075",
+              "text-align": "left"
+            }
+          }
         },
         {
           "_inherit": "msg-box1",
