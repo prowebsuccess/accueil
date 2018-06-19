@@ -147,7 +147,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": "17",
+            "imageSize": "12",
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
