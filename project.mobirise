@@ -24,7 +24,7 @@
     "google-analytics": "",
     "siteUrl": "",
     "versionFirst": "4.7.7",
-    "uniqCompNum": 60,
+    "uniqCompNum": 65,
     "versionPublish": "4.7.7",
     "screenshot": "screenshot.png",
     "sitemapSwitcherAuto": "on"
@@ -776,16 +776,16 @@
             "Thème"
           ],
           "_name": "image1",
+          "_anchor": "image1-1s",
           "_styles": {
             "DIV": {
-              "text-align": "center",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-size": "21px",
-              "color": "#005075"
+              "color": "#005075",
+              "text-align": "center"
             }
-          },
-          "_anchor": "image1-1n"
+          }
         },
         {
           "_styles": {
