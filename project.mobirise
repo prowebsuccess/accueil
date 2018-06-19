@@ -59,8 +59,9 @@
               "src": "@PROJECT_PATH@/assets/images/2logo-onstruction-web-35p.gif",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -114,7 +115,7 @@
           },
           "title": "<br><br>Utilisez la technologie<br>pour vous faire&nbsp;<br>connaitre !",
           "text": "Démarquez vous !<br>Mettez en avant votre activité",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box3-p\" data-toolbar=\"-mbrBtnMove\">Travaillons ensemble &gt;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"Contact.html\" data-toolbar=\"-mbrBtnMove\">En savoir +</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Contact.html\" data-toolbar=\"-mbrBtnMove\">Travaillons ensemble &gt;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#msg-box3-1m\" data-toolbar=\"-mbrBtnMove\">En savoir +</a>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
@@ -191,7 +192,7 @@
             "Thème"
           ],
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">En savoir +</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"Contact.html\" data-toolbar=\"-mbrBtnMove\">En savoir +</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1b",
           "_styles": {
@@ -917,9 +918,10 @@
               "src": "@PROJECT_PATH@/assets/images/2logo-onstruction-web-35p.gif",
               "width": 265,
               "active": true,
-              "link": "",
+              "link": "index.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -981,8 +983,9 @@
               "src": "@PROJECT_PATH@/assets/images/2logo-onstruction-web-35p.gif",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1092,9 +1095,10 @@
               "src": "@PROJECT_PATH@/assets/images/2logo-onstruction-web-35p.gif",
               "width": 265,
               "active": true,
-              "link": "",
+              "link": "index.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
