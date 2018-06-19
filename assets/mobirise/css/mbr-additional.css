@@ -32,6 +32,8 @@
 
 
 
+
+
 #menu-0 .navbar-toggler {
   color: #5cb85c;
 }
@@ -163,11 +165,11 @@
   font-size: 30px;
   color: #ffffff;
 }
-#image1-11 DIV {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 16px;
-  color: #17236b;
+#image1-1f DIV {
   text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 21px;
+  color: #005075;
 }
 #msg-box3-1c .mbr-header .mbr-header__text {
   text-align: center;
@@ -206,6 +208,19 @@
 }
 #msg-box2-q .btn {
   font-family: 'Open Sans', sans-serif;
+}
+#contacts1-5 B {
+  color: #ffffff;
+}
+#contacts1-5 P {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 14px;
+  color: #ffffff;
+}
+#contacts1-5 DIV {
+  color: #47c848;
+  font-family: 'Roboto', sans-serif;
+  font-size: 17px;
 }
 
 
