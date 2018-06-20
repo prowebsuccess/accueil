@@ -35,6 +35,7 @@
 
 
 
+
 #menu-0 .navbar-toggler {
   color: #5cb85c;
 }
@@ -196,6 +197,15 @@
   font-family: 'Montserrat', sans-serif;
   font-size: 30px;
   color: #ffffff;
+}
+#content5-28 P {
+  text-align: center;
+}
+#content5-28 .mbr-section-title {
+  text-align: center;
+  color: #ffa900;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 32px;
 }
 #msg-box3-1x .mbr-header .mbr-header__text {
   text-align: center;

@@ -18,13 +18,13 @@
     },
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
-    "favicon": "@PROJECT_PATH@/assets/images/1logo-onstruction-web-35p-new0.gif",
+    "favicon": "@PROJECT_PATH@/assets/images/1logo-onstruction-web-35p-new1.gif",
     "noImageResize": "true",
     "cookiesAlert": "",
     "google-analytics": "",
     "siteUrl": "",
     "versionFirst": "4.7.7",
-    "uniqCompNum": 76,
+    "uniqCompNum": 81,
     "versionPublish": "4.7.7",
     "screenshot": "screenshot.png",
     "sitemapSwitcherAuto": "on"
@@ -753,6 +753,46 @@
           "_anchor": "msg-box3-18"
         },
         {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/website-indpendants-et-petites-entreprises-1.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "<br><br><br>Gites . Restauration . <br> Artisans . Auto-entrepreneur .&nbsp; \n<div></div><div>\nProfession Libéral .\n</div><div></div><div>\nAssociation .\n</div><div></div><div><br></div>",
+          "caption": "<p><br></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-28",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "color": "#ffa900",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "32px"
+            }
+          }
+        },
+        {
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center"
@@ -775,7 +815,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/website-indpendants-et-petites-entreprises.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/website-indpendants-et-petites-entreprises-1.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#FFF8E0",
