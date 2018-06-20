@@ -24,7 +24,7 @@
     "google-analytics": "",
     "siteUrl": "",
     "versionFirst": "4.7.7",
-    "uniqCompNum": 71,
+    "uniqCompNum": 76,
     "versionPublish": "4.7.7",
     "screenshot": "screenshot.png",
     "sitemapSwitcherAuto": "on"
@@ -33,7 +33,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Pro Web Success - Accueil",
+        "title": "Pro Web Success",
         "meta_descr": "Création de sites Web rapides et performants à un prix vraiment abordable",
         "header_custom": "",
         "footer_custom": "",
@@ -497,7 +497,7 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/1receuil-besoin-etape-creation-site-internet-2-1280x808.png",
                 "thumb": "@PROJECT_PATH@/assets/images/1receuil-besoin-etape-creation-site-internet-2-1280x808-800x505.png",
-                "active": false,
+                "active": true,
                 "alt": "",
                 "title": ""
               },
@@ -538,7 +538,7 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/2-etape-creatiion2-1280x808.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2-etape-creatiion2-1280x808-800x505.jpg",
-                "active": true,
+                "active": false,
                 "alt": "",
                 "title": ""
               }
@@ -655,15 +655,15 @@
         {
           "_params": {
             "showTitles": true,
-            "showCaptions": false,
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "showCaptions": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "columns": 4,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/designs-928x459.png",
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f2f2f2",
+            "bgColor": "#f8f8f6",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -672,31 +672,31 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title1": "<b>Une offre unique ABORDABLE \n</b><div>et SANS Frais Mensuels</div><div><br></div>",
-          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "<b>Une solution évolutive </b><br>pour faire connaitre votre activité, votre savoir faire<div><br></div>",
-          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "<b>Une conception Multi écrans \n</b><div>Pc, Tablette, Smartphone</div><div><br></div>",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "<b>Délai de traitement rapide</b><br>pour attirer et générer plus d'activité rapidement",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title1": "Une offre unique ABORDABLE",
+          "caption1": "<br>et SANS Frais Mensuels&nbsp;<br>",
+          "title2": "Une solution évolutive",
+          "caption2": "<br>pour faire connaitre votre activité, votre savoir faire",
+          "title3": "Une conception Multi écrans",
+          "caption3": "<br>Pc, Tablette, Smartphone&nbsp;<br>",
+          "title4": "Délai de traitement rapide&nbsp;",
+          "caption4": "<br>pour attirer et générer plus d'activité rapidement",
           "alias": "purity/components",
           "_tags": [
             "Thème"
           ],
           "_name": "content4",
-          "_anchor": "content4-13",
+          "_anchor": "content4-23",
           "_styles": {
             "H4": {
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-size": "15px"
+              "color": "#ffa900",
+              "font-size": "22px"
             },
-            "DIV": {
-              "color": "#8f99af"
-            },
-            "B": {
-              "color": "#ffa900"
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "14px"
             }
           }
         },
@@ -775,8 +775,8 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/website-indpendants-et-petites-entreprises-2000x1125.jpg",
-            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/website-indpendants-et-petites-entreprises.jpg",
+            "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#FFF8E0",
             "bgVideoRadio": false,
@@ -785,7 +785,7 @@
             },
             "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": "0.2"
+            "overlayOpacity": "0.1"
           },
           "title": "<br>Gites . Restauration . <br>Artisans . &nbsp;Auto-entrepreneur . <br>Profession Libéral .<br>Association .<br><br> \n",
           "meta": "By John Smith posted July 30, 2015",

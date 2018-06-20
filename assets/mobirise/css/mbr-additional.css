@@ -34,6 +34,7 @@
 
 
 
+
 #menu-0 .navbar-toggler {
   color: #5cb85c;
 }
@@ -171,15 +172,14 @@
   font-size: 30px;
   color: #005075;
 }
-#content4-13 H4 {
+#content4-23 H4 {
   font-family: 'Roboto', sans-serif;
-  font-size: 15px;
-}
-#content4-13 DIV {
-  color: #8f99af;
-}
-#content4-13 B {
   color: #ffa900;
+  font-size: 22px;
+}
+#content4-23 P {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
 }
 #msg-box3-18 .mbr-header .mbr-header__text {
   text-align: center;
