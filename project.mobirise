@@ -18,7 +18,7 @@
     },
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
-    "favicon": "@PROJECT_PATH@/assets/images/1logo-onstruction-web-35p-new3.gif",
+    "favicon": "@PROJECT_PATH@/assets/images/1logo-onstruction-web-35p-new5.gif",
     "noImageResize": "true",
     "cookiesAlert": "",
     "google-analytics": "",
@@ -760,7 +760,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/website-indpendants-et-petites-entreprises-1600x900.jpg",
-            "parallax": true,
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -768,10 +768,10 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.7
+            "overlayColor": "#37383e",
+            "overlayOpacity": "0.4"
           },
-          "title": "<br><br><br>Gites . Restauration . <br> Artisans . Auto-entrepreneur .&nbsp; \n<div></div><div>\nProfession Libéral .\n</div><div></div><div>\nAssociation .\n</div><div></div><div><br></div>",
+          "title": "<br><br><b>Gites . </b><br><b>Restauration . <br> Artisans . Auto-entrepreneur .&nbsp; \n</b><div></div><div><b>\nProfession Libéral .\n</b></div><div></div><div><b>\nAssociation .\n</b></div><div></div><div><br></div>",
           "caption": "<p><br></p>",
           "alias": "purity/components",
           "_tags": [
@@ -791,52 +791,6 @@
               "font-size": "32px"
             }
           }
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#ffa900",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "30px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": false,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/website-indpendants-et-petites-entreprises-1.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#FFF8E0",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0.1"
-          },
-          "title": "<br>Gites . Restauration . <br>Artisans . &nbsp;Auto-entrepreneur . <br>Profession Libéral .<br>Association .<br><br> \n",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-1x"
         },
         {
           "_inherit": "msg-box1",
