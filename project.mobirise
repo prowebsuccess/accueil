@@ -18,16 +18,19 @@
     },
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
-    "favicon": "@PROJECT_PATH@/assets/images/1logo-onstruction-web-35p-new5.gif",
+    "favicon": "@PROJECT_PATH@/assets/images/1logo-onstruction-web-35p-new0.gif",
     "noImageResize": "true",
     "cookiesAlert": "",
-    "google-analytics": "",
-    "siteUrl": "",
+    "google-analytics": "<!-- Google Tag Manager -->\r\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\r\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\r\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\r\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\r\n})(window,document,'script','dataLayer','GTM-TVF6869');</script>\r\n<!-- End Google Tag Manager -->",
+    "siteUrl": "http://www.prowebsuccess.fr",
     "versionFirst": "4.7.7",
     "uniqCompNum": 81,
     "versionPublish": "4.7.7",
     "screenshot": "screenshot.png",
-    "sitemapSwitcherAuto": "on"
+    "sitemapSwitcherAuto": "on",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
@@ -267,7 +270,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Envoi</a>",
           "text1": "PROWEBSUCCESS simplifie la création Web en offrant un prix d'entrée abordable&nbsp;et performant.<br><br><br><br>Pour 390 EUR, vous aurez un site Web personnalisé. Il n'y a pas de couts cachés, pas de frais tous les mois.<br>",
-          "text2": "<p>Votre site internet est concu pour être spécialement compatible avec les ordinateurs de bureau, les tablettes, et les téléphones portables</p><p>Un projet ? Commencez dès maintenant en Remplissant le formulaire et nous prendrons contact avec vous pour envisager ensemble comment nous pouvons vous aider.<br></p>",
+          "text2": "<p>Votre site internet est concu pour être spécialement compatible avec les ordinateurs de bureau, les tablettes, et les téléphones portables</p><p>Un projet ? Commencez dès maintenant en remplissant le formulaire et nous prendrons contact avec vous pour envisager ensemble comment nous pouvons vous aider.</p>",
           "form": {
             "title": "MESSAGE",
             "action": "info@prowebsuccess.fr",
@@ -760,7 +763,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/website-indpendants-et-petites-entreprises-1600x900.jpg",
-            "parallax": false,
+            "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -769,9 +772,9 @@
             },
             "overlay": true,
             "overlayColor": "#37383e",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0.2"
           },
-          "title": "<br><br><b>Gites . </b><br><b>Restauration . <br> Artisans . Auto-entrepreneur .&nbsp; \n</b><div></div><div><b>\nProfession Libéral .\n</b></div><div></div><div><b>\nAssociation .\n</b></div><div></div><div><br></div>",
+          "title": "<br><b><br></b><br><b>Gites . </b><br><b>Restauration . <br> Artisans . Auto-entrepreneur .&nbsp; \n</b><div></div><div><b>\nProfession Libéral .\n</b></div><div></div><div><b>\nAssociation .\n</b></div><div></div><div><br></div>",
           "caption": "<p><br></p>",
           "alias": "purity/components",
           "_tags": [
@@ -789,6 +792,12 @@
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-size": "32px"
+            },
+            ".mbr-section-title B": {
+              "color": "#ffa900"
+            },
+            ".mbr-section-title DIV": {
+              "color": "#47c848"
             }
           }
         },
