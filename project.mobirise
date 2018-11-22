@@ -18,7 +18,7 @@
     },
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
-    "favicon": "@PROJECT_PATH@/assets/images/1logo-onstruction-web-35p-new0.gif",
+    "favicon": "@PROJECT_PATH@/assets/images/1logo-onstruction-web-35p-new1.gif",
     "noImageResize": "true",
     "cookiesAlert": "",
     "google-analytics": "<!-- Google Tag Manager -->\r\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\r\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\r\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\r\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\r\n})(window,document,'script','dataLayer','GTM-TVF6869');</script>\r\n<!-- End Google Tag Manager -->",
@@ -91,6 +91,11 @@
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-size": "17px"
+            },
+            ".nav-item .btn": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "15px"
             }
           }
         },
@@ -962,6 +967,11 @@
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-size": "17px"
+            },
+            ".nav-item .btn": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "15px"
             }
           },
           "_anchor": "menu-7"

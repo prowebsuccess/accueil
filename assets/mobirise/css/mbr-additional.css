@@ -35,6 +35,7 @@
 
 
 
+
 #menu-0 .navbar-toggler {
   color: #5cb85c;
 }
@@ -45,6 +46,10 @@
 #menu-0 .navbar-brand {
   font-family: 'Montserrat', sans-serif;
   font-size: 17px;
+}
+#menu-0 .nav-item .btn {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
 }
 #header4-6 H1 {
   font-family: 'Montserrat', sans-serif;
@@ -243,6 +248,7 @@
 
 
 
+
 #menu-7 .navbar-toggler {
   color: #5cb85c;
 }
@@ -253,6 +259,10 @@
 #menu-7 .navbar-brand {
   font-family: 'Montserrat', sans-serif;
   font-size: 17px;
+}
+#menu-7 .nav-item .btn {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
 }
 #form1-d .mbr-section-title {
   font-family: 'Roboto', sans-serif;
